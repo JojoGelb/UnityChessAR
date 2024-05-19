@@ -1,0 +1,11 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes: []
+  m_configObjects:
+    UnityEditor.XR.ARCore.ARCoreSettings: {fileID: 11400000, guid: cce98b86dabdc7b46bb6533c901543ef, type: 2}
+    com.unity.xr.arfoundation.simulation_settings: {fileID: 11400000, guid: 7377b39e9366049469ab7b5e91446052, type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 500af1a8b51f8ef43b595deabc471030, type: 2}
