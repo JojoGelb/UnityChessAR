@@ -12,9 +12,9 @@ GameObject:
   - component: {fileID: 6770518817399366146}
   - component: {fileID: 5152955063168052853}
   - component: {fileID: 7177797415372351803}
-  - component: {fileID: 7810508019923401046}
-  - component: {fileID: 900748366007901383}
-  - component: {fileID: 2070714803065632748}
+  - component: {fileID: 8402037059624414334}
+  - component: {fileID: 7139487082815997839}
+  - component: {fileID: 143407122399808026}
   m_Layer: 0
   m_Name: AR Default Plane
   m_TagString: Untagged
@@ -87,15 +87,7 @@ MeshCollider:
   m_Convex: 0
   m_CookingOptions: 30
   m_Mesh: {fileID: 0}
---- !u!33 &7810508019923401046
-MeshFilter:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 8052246518664935466}
-  m_Mesh: {fileID: 0}
---- !u!23 &900748366007901383
+--- !u!23 &8402037059624414334
 MeshRenderer:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -137,7 +129,15 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
---- !u!120 &2070714803065632748
+--- !u!33 &7139487082815997839
+MeshFilter:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8052246518664935466}
+  m_Mesh: {fileID: 0}
+--- !u!120 &143407122399808026
 LineRenderer:
   serializedVersion: 2
   m_ObjectHideFlags: 0
